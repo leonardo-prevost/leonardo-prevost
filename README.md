@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**leonardo-prevost/leonardo-prevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo Prevost👦🏻, currently i'm a front-end developer.
 
-Here are some ideas to get you started:
+Currently stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻Web front-end development with **ReactJs**
+💾Database: Postegres, FireBase, SQL server, MySQL.
+
+But, i also used it in projects:
+
+
+
+
+🎓 I am graduated in Analysis and systems development
+
+I also love UX Design 😍. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use Figma and I use Photoshop CC for edit images.
+
+
+The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. 💜
+
+
+
