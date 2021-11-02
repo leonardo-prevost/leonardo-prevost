@@ -31,5 +31,7 @@ Follow me on my social media:
 
 <a href="https://www.linkedin.com/in/leonardo-prevost-0760b5118/"><img src='https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg' height="80" width="80"/></a>
 
+<a href="https://www.facebook.com/leonardo.prevost1"><img src='https://expertdigital.net/wp-content/uploads/2015/12/Cursos-de-Facebook-Ads-Gerenciador-de-Neg%C3%B3cios-e-An%C3%BAncios-e-etc..jpg' height="50" width="50"/></a>
+
 
 
