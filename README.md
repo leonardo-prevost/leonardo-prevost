@@ -27,5 +27,9 @@ I also love UX Design 😍. I like to create beautiful interfaces to provide the
 
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. 💜
 
+Follow me on my social media:
+
+<a heref="https://www.linkedin.com/in/leonardo-prevost-0760b5118/"><img src='https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg' height="50" width="50"/></a>
+
 
 
