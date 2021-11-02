@@ -9,7 +9,7 @@ Currently stack:
 
 But, i also used it in projects:
 
-
+<a href="url"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" width="40" ></a>
 
 
 🎓 I am graduated in Analysis and systems development
