@@ -5,6 +5,7 @@ I'm Leonardo Prevost👦🏻, currently i'm a front-end developer.
 Currently stack:
 
 💻Web front-end development with **ReactJs**
+
 💾Database: Postegres, FireBase, SQL server, MySQL.
 
 But, i also used it in projects:
