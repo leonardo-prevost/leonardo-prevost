@@ -29,8 +29,7 @@ The only certainty I have is that learning is an endless road and I want to stay
 
 Follow me on my social media:
 
-<a href="https://www.linkedin.com/in/leonardo-prevost-0760b5118/"><img src='https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg' height="80" width="80"/></a>
-
+<a href="https://www.linkedin.com/in/leonardo-prevost-0760b5118/"><img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635825590~hmac=5aad1541ab14b912204c48cfc00f3169' height="40" width="40"/></a>
 <a href="https://www.facebook.com/leonardo.prevost1"><img src='https://cdn.pixabay.com/photo/2017/08/20/10/30/facebook-2661207_640.jpg' height="40" width="40"/></a>
 
 
